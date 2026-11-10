@@ -1,0 +1,6 @@
+# Supabase CLI local-only state. Never commit.
+.branches
+.temp
+.env
+.env.*
+!.env.example
