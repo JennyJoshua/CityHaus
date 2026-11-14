@@ -1,0 +1,4 @@
+-- Intentionally empty.
+-- No seed data is defined for Phase 1 until the Database and Backend
+-- Specification v1.0 is available (lookup values such as amenities and
+-- locations remain an open decision).
